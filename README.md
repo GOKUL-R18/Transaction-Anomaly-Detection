@@ -1,2 +1,2 @@
-# Transaction-Anomaly-Detection-
+# Transaction-Anomaly-Detection
 SQL | Google Sheets
